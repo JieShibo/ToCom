@@ -27,7 +27,7 @@ Official code of ''Token Compensator: Altering Inference Cost of Vision Transfor
 
   - [Stanford Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 
-### Pre-training DeiT
+### Pre-trained DeiT
 Download the pre-trained DeiT-B model from [here](https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth).
 
 ### Pre-training ToCom
